@@ -10,7 +10,7 @@ NPM uses semantic versioning to determine which package version to install. NPM 
 - Minor: New features
 - Patch: Bug fixes
 
-## Semantic Versioning - Asterisk Tilde and Caret
+## Semantic Versioning - Tilde, Caret and Asterisk
 
 - Tilde: ~1.2.3 will install the latest patch version of 1.2.x
 - Caret: ^1.2.3 will install the latest minor version of 1.x.x
@@ -84,7 +84,7 @@ NPM uses semantic versioning to determine which package version to install. NPM 
 - `npm config set <key> <value>` - set a specific npm config
 - `npm config delete <key>` - delete a specific npm config
 
-### Config Global (Author, License, Version, Etc.)\
+### Config Global (Author, License, Version, Etc.)
 
 - `npm set init.author.name "<name>"` - set author name
 - `npm set init.author.email "<email>"` - set author email
