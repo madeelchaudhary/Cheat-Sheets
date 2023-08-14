@@ -32,7 +32,7 @@ By contributing to this repository, you're not only helping others learn but als
 
 ## 📄 Licensing
 
-All cheatsheets in this repository are provided under [Insert Licensing Information Here]. Please review the licensing terms before using or sharing the content.
+All cheatsheets in this repository are provided under the [MIT License](https://opensource.org/licenses/MIT). You're free to use them for both personal and commercial purposes. Attribution is not required, but it's highly appreciated.
 
 ## 📚 Stay Updated
 
